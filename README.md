@@ -13,8 +13,3 @@ Aspiring AI junior with a passion for crafting intelligent solutions. Proficient
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/t00nyG) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/t00nyG/)  
 
----
-
-#### GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t00nyG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Antonios's GitHub stats](https://github-readme-stats.vercel.app/api?username=t00nyG&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
