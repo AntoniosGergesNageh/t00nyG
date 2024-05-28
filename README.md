@@ -17,4 +17,4 @@ Aspiring AI junior with a passion for crafting intelligent solutions. Proficient
 
 #### GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t00nyG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=t00nyG&show_icons=true&theme=radical)
+[![Antonios's GitHub stats](https://github-readme-stats.vercel.app/api?username=t00nyG&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
